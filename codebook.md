@@ -3,8 +3,11 @@
 ## Description of the variables
 
 subject: The identifying number unique to each subject
+
 activity: The name of each type of activity
+
 subjectid: same as subject
+
 activityid: The identifying number unique to each activity
 
 
